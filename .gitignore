@@ -1,0 +1,6 @@
+# build directory
+/build
+
+# c only
+*.cpp
+
